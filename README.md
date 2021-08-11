@@ -16,7 +16,12 @@
 4. 声明自己是“锅贴”的一员，并链接到<https://github.com/jks-liu/guotie>：  
    如：XXX是“[锅贴](https://github.com/jks-liu/guotie)”大家族的一员
 4. 提交一个pr，将自己加入到member文件夹，可以参考已有锅贴
+   - 以字典序存放在A-Z的文件夹杂
+   - 并将自己加入到本README的最下面
 
 # 规则
 本项目暂时没有任何规则
 
+# 已知锅贴
+## F
+- [反对好评返现贴](https://github.com/jks-liu/anti-fake-review): CC0
